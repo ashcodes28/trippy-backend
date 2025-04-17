@@ -1,0 +1,42 @@
+[
+    {
+      "id": "htl-001",
+      "name": "Grand Central Hotel",
+      "address": "123 Main St, London",
+      "checkIn": "14:00",
+      "checkOut": "11:00",
+      "price": 180,
+      "currency": "USD",
+      "rating": 4.5,
+      "amenities": ["Wifi", "Pool", "Gym", "Restaurant"],
+      "roomTypes": ["standard", "deluxe", "suite"],
+      "images": ["hotel1_img1.jpg", "hotel1_img2.jpg"]
+    },
+    {
+      "id": "htl-002",
+      "name": "City View Inn",
+      "address": "456 Park Ave, London",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "price": 120,
+      "currency": "USD",
+      "rating": 3.8,
+      "amenities": ["Wifi", "Restaurant"],
+      "roomTypes": ["standard", "deluxe"],
+      "images": ["hotel2_img1.jpg", "hotel2_img2.jpg"]
+    },
+    {
+      "id": "htl-003",
+      "name": "Royal Luxury Suites",
+      "address": "789 Palace Road, London",
+      "checkIn": "16:00",
+      "checkOut": "12:00",
+      "price": 350,
+      "currency": "USD",
+      "rating": 4.8,
+      "amenities": ["Wifi", "Pool", "Gym", "Spa", "Restaurant", "Bar"],
+      "roomTypes": ["deluxe", "suite", "penthouse"],
+      "images": ["hotel3_img1.jpg", "hotel3_img2.jpg"]
+    }
+  ]
+  

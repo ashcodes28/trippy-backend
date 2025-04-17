@@ -1,0 +1,48 @@
+[
+    {
+      "id": "bus-001",
+      "operator": "EuroCoach",
+      "busNumber": "EC500",
+      "from": "London",
+      "to": "Oxford",
+      "departureTime": "2023-08-17T09:00:00Z",
+      "arrivalTime": "2023-08-17T10:30:00Z",
+      "duration": "1h 30m",
+      "price": {
+        "amount": 15,
+        "currency": "USD"
+      },
+      "availableSeats": 35
+    },
+    {
+      "id": "bus-002",
+      "operator": "CityLink",
+      "busNumber": "CL300",
+      "from": "London",
+      "to": "Oxford",
+      "departureTime": "2023-08-17T10:30:00Z",
+      "arrivalTime": "2023-08-17T12:15:00Z",
+      "duration": "1h 45m",
+      "price": {
+        "amount": 12,
+        "currency": "USD"
+      },
+      "availableSeats": 22
+    },
+    {
+      "id": "bus-003",
+      "operator": "EuroCoach",
+      "busNumber": "EC502",
+      "from": "London",
+      "to": "Oxford",
+      "departureTime": "2023-08-17T14:00:00Z",
+      "arrivalTime": "2023-08-17T15:30:00Z",
+      "duration": "1h 30m",
+      "price": {
+        "amount": 15,
+        "currency": "USD"
+      },
+      "availableSeats": 40
+    }
+  ]
+  

@@ -1,0 +1,50 @@
+[
+    {
+      "id": "tr-001",
+      "operator": "EuroRail",
+      "trainNumber": "ER100",
+      "from": "London",
+      "to": "Paris",
+      "departureTime": "2023-08-16T08:30:00Z",
+      "arrivalTime": "2023-08-16T11:47:00Z",
+      "duration": "3h 17m",
+      "price": {
+        "amount": 85,
+        "currency": "USD"
+      },
+      "class": "Economy",
+      "availableSeats": 43
+    },
+    {
+      "id": "tr-002",
+      "operator": "EuroRail",
+      "trainNumber": "ER102",
+      "from": "London",
+      "to": "Paris",
+      "departureTime": "2023-08-16T10:30:00Z",
+      "arrivalTime": "2023-08-16T13:47:00Z",
+      "duration": "3h 17m",
+      "price": {
+        "amount": 120,
+        "currency": "USD"
+      },
+      "class": "Business",
+      "availableSeats": 15
+    },
+    {
+      "id": "tr-003",
+      "operator": "SpeedTrain",
+      "trainNumber": "ST205",
+      "from": "London",
+      "to": "Paris",
+      "departureTime": "2023-08-16T12:00:00Z",
+      "arrivalTime": "2023-08-16T15:22:00Z",
+      "duration": "3h 22m",
+      "price": {
+        "amount": 75,
+        "currency": "USD"
+      },
+      "class": "Economy",
+      "availableSeats": 28
+    }
+  ]
